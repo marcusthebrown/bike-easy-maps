@@ -1,0 +1,1555 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Installed</name>
+		<Placemark>
+			<name>McDonogh 15</name>
+			<description><![CDATA[<img src="http://sphotos.ak.fbcdn.net/hphotos-ak-snc3/hs506.snc3/26587_413141511741_110795006741_5095697_8307260_n.jpg" height="200" width="auto" /><br><br>5 WyR's at the school in the parking lot, sponsored by Zurich Financial Services.<br><br>#2]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://sphotos.ak.fbcdn.net/hphotos-ak-snc3/hs506.snc3/26587_413141511741_110795006741_5095697_8307260_n.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.06249,29.960766999999997,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NO Math &amp; Science Charter High School</name>
+			<description><![CDATA[<img src="http://sphotos.ak.fbcdn.net/hphotos-ak-ash1/hs327.ash1/28495_417898056741_110795006741_5209499_6567390_n.jpg" height="200" width="auto" /><br><br>3 WyR's near Nashville entrance, sponsored by Zurich Financial Services.<br><br>#3]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://sphotos.ak.fbcdn.net/hphotos-ak-ash1/hs327.ash1/28495_417898056741_110795006741_5209499_6567390_n.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.114973,29.933578,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NO Math &amp; Science Charter High School</name>
+			<description><![CDATA[<img src="http://sphotos.ak.fbcdn.net/hphotos-ak-ash1/hs528.ash1/30989_418758181741_110795006741_5234320_5488608_n.jpg" height="200" width="auto" /><br><br>2 WyR's under stair well, sponsored by Zurich Financial Services.<br><br>#3]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://sphotos.ak.fbcdn.net/hphotos-ak-ash1/hs528.ash1/30989_418758181741_110795006741_5234320_5488608_n.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.11480100000001,29.933343999999998,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>James Singleton Charter School</name>
+			<description><![CDATA[1 WyR installed near the trailer and ball fields, sponsored by Zurich Financial Services.<br><br>#5]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.08412500000001,29.936916,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>James Singleton Charter School</name>
+			<description><![CDATA[3 WyR's installed behind fence near rear entrance for students only, sponsored by Zurich Financial Services.<br><br>#5]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.084626,29.936065000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Whole Foods Arabella Station</name>
+			<description><![CDATA[<img src="http://sphotos.ak.fbcdn.net/hphotos-ak-snc3/hs550.snc3/30128_421150891741_110795006741_5286188_8206416_n.jpg" height="200" width="auto" /><br><br>2 WyR's installed adjacent to front flag pole.  Sponsored by Whole Foods Arabella Station.<br><br>#1]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://sphotos.ak.fbcdn.net/hphotos-ak-snc3/hs550.snc3/30128_421150891741_110795006741_5286188_8206416_n.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.117225,29.92108,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KIPP Renaissance High</name>
+			<description><![CDATA[3 WyR's installed behind fence adjacent to the gymnasium.  Sponsored by Zurich Financial Services.<br><br>#6]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.037481,29.964656,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KIPP Central City</name>
+			<description><![CDATA[2 WyR's installed inside the school for teacher use on the 2nd floor, sponsored by Zurich Financial Services.<br><br>#10]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.085133,29.945566,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Young Leadership Council</name>
+			<description><![CDATA[<img src="http://sphotos.ak.fbcdn.net/hphotos-ak-snc3/hs590.snc3/31128_429744901741_110795006741_5504560_1200724_n.jpg" height="200" width="auto" /><br><br>2 WyR's installed by parking lot next to YLC building.  Sponsored by Starbucks COAST Grant.<br><br>#4]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://sphotos.ak.fbcdn.net/hphotos-ak-snc3/hs590.snc3/31128_429744901741_110795006741_5504560_1200724_n.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.079876,29.939449,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lafayette Square (SE Corner)</name>
+			<description><![CDATA[5 WyR's on the southeast corner of Lafayette Square, intersection of Camp and S Maestri.  Sponsored by GreenBean Insultation, John D. Becker & Associates, William D. Hess, Judy Barrasso, and Whole Foods Arabella Station.<br><br>#7]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.069968,29.947719000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Audubon Park - NE Pavilion</name>
+			<description><![CDATA[<img src="http://sphotos.ak.fbcdn.net/hphotos-ak-ash2/hs442.ash2/71495_483283406741_110795006741_6802565_164972_n.jpg" height="200" width="auto" /><br><br>2 WyR's installed on NW corner of pavilion near playground equipment, sponsored by Whole Foods Arabella Station and Entergy Corp.<br><br>#8]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://sphotos.ak.fbcdn.net/hphotos-ak-ash2/hs442.ash2/71495_483283406741_110795006741_6802565_164972_n.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.12225,29.93312,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Audubon Park - NE Pavilion</name>
+			<description><![CDATA[<img src="http://sphotos.ak.fbcdn.net/hphotos-ak-snc4/hs749.snc4/64978_483282411741_110795006741_6802553_669350_n.jpg" height="200" width="auto" /><br><br>2 WyR's installed on the SW corner of the pavilion, sponsored by Whole Foods Arabella Station and Entergy Corp.<br><br>#8]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://sphotos.ak.fbcdn.net/hphotos-ak-snc4/hs749.snc4/64978_483282411741_110795006741_6802553_669350_n.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.122341,29.932977999999995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Audubon Park - NW Pavilion</name>
+			<description><![CDATA[<img src="http://sphotos.ak.fbcdn.net/hphotos-ak-snc4/hs833.snc4/69371_483284651741_110795006741_6802583_1922153_n.jpg" height="200" width="auto" /><br><br>2 WyR's installed on SE side of pavilion, in sight of Audubon Park Trail, sponsored by Whole Foods Arabella Station and Entergy Corp.<br><br>#8]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://sphotos.ak.fbcdn.net/hphotos-ak-snc4/hs833.snc4/69371_483284651741_110795006741_6802583_1922153_n.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.126132,29.934761000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Audubon Park - Main Pavilion</name>
+			<description><![CDATA[<img src="http://sphotos.ak.fbcdn.net/hphotos-ak-snc4/hs906.snc4/71915_483287991741_110795006741_6802694_468042_n.jpg" height="200" width="auto" /><br><br>2 WyR's on the norther edge of the pavilion adjacent to driveway, both sponsored by Entergy Corp.<br><br>#8]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://sphotos.ak.fbcdn.net/hphotos-ak-snc4/hs906.snc4/71915_483287991741_110795006741_6802694_468042_n.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.12753100000002,29.926603,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bunny Friends Park</name>
+			<description><![CDATA[1 WyR installed at local Bunny Friends Park adjacent to ball fields and concession stand.  Sponsored by 350.org, for 10/10/10, Global Work Party.<br><br>#9]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.03735,29.975089999999998,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Harney Elementary</name>
+			<description><![CDATA[2 WyR's in a new bike corral area adjacent to flag pole.  Sponsored by Zurich Financial Services.<br><br>#11]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.09215,29.943137999999998,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lafayette Square (NE Corner)</name>
+			<description><![CDATA[4 WyR's on the northeast corner of Lafayette Square, intersection of Camp and N Maestri.  Sponsored by the Baptist Community Ministries, Young Leadership Council 2010 Board of Directors, Malvern Burnett, and the Hash House Harriers.<br><br>#12]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.069754,29.948636999999998,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aquarium of the Americas</name>
+			<description><![CDATA[4 WyR's on the entrance ramp heading towards the river.  Sponsored by Jeff & Robin Harwell, Rose Vinci, Whole Foods Arabella Station, and the 2010 YLC Board of Directors.<br>#13]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.063086,29.949953,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Touro Hospital</name>
+			<description><![CDATA[1 WyR in the parking garage at Touro across from the emergency room and sponsored by Touro Hospital. <br>#14]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.091618,29.926108999999997,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Audubon Park - The Butterfly</name>
+			<description><![CDATA[2 WyR's on the river-adjacent sidewalk by the farthest pavilion upriver.<br>Sponsored by Oschner Clinic and Sara  Samuel Siegel.<br>#15]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.135076,29.921734,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Audubon Park - The Butterfly</name>
+			<description><![CDATA[2 WyR's on the river-adjacent sidewalk at the middle pavilion.<br>Sponsored by Oschner and Aimee Farnet Siegel.<br>#16]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.134309,29.918177,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mid-City Center</name>
+			<description><![CDATA[2 WyR's flanking the sidewalk and entry-way.<br>Sponsored by Chip Forstall and Verges-Rome <br>Architects. #17]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.098312,29.976390999999996,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Skinny &amp; Marie's</name>
+			<description><![CDATA[1 WyR adjacent to the building.<br>Sponsored by Terence Adams.<br>#18]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.05385,29.998104,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Audubon Dental</name>
+			<description><![CDATA[1 WyR on the walk-up to Audubon Dental.<br>Sponsored by Audubon Dental.<br>#19]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.124001,29.922823,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cake Cafe</name>
+			<description><![CDATA[1 WyR on the side of Cake Cafe, sponsored by the residents of the 600 block of Spain.<br>#20]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.052903,29.963609,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Crescent City Comics</name>
+			<description><![CDATA[1 WyR  in front of Crescent City Comics, sponsored by William Staley.#21]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.10777,29.934832,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>400 Poydras</name>
+			<description><![CDATA[2 WyR's near the Magazine St rear entrance to 400 Poydras, sponsored by Fowler Rodriguez Valdes-Fauli law firm, and Hash House Harriers.<br>#23]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.068258,29.948344,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Capdeville</name>
+			<description><![CDATA[1 WyR between the entrance to the IP building and Capdeville, sponsored by Hash House Harriers.<br>#24]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.06912,29.947240000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bulldog Uptown</name>
+			<description><![CDATA[2 WyR sponsored on Pleasant outside the Bulldog patio, sponsored by The Bulldog, and Hash House Harriers.<br>#25]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.087228,29.923502000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Skipper Bond</name>
+			<description><![CDATA[2 WyR outside of the multi-tenant building at 2917 Magazine, sponsored by Skipper Bond PR and Hash House Harriers.<br>#26]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.084091,29.925392,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La Divina</name>
+			<description><![CDATA[1 WyR at the lakeside, downtown corner of Magazine and Seventh, sponsored by La Divina Gelateria.<br><br>#27]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.084692,29.925136999999996,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Winindger Enterprises</name>
+			<description><![CDATA[2 WyR outside the 1470 Urania entrance to Winindger Enterprises, sponsored by Winindger Enterprises.<br><br>#28]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.076072,29.935180000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Louisiana Endowment for the Humanities</name>
+			<description><![CDATA[2 WyR sponsored by the Louisiana Endowment for the Humanities, outside their offices at 938 Lafayette Street.<br><br>#29]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.074304,29.949054,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Audubon Charter</name>
+			<description><![CDATA[1 WyR sponsored by Redeemer Presbyterian Church adjacent to parking lane outside of Audubon Charter School at 719 S. Carrollton Ave.<br><br>#30]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.132924,29.943998,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St. Patrick's Park</name>
+			<description><![CDATA[2 WyR's flanking corner sidewalk ramp behind the baseball field backstop at the corner of S. St. Patrick St and Baudin St, sponsored by the YLC 25th Anniversary Fund.<br>#31]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.110137,29.975261,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stone Pigman</name>
+			<description><![CDATA[2 WyR's by the Lafayette St mail entrance to the Stone Pigman building, sponsored by Stone Pigman Walther Wittmann L.L.C.<br>#32]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.071993,29.948587,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cripple Creek Theater</name>
+			<description><![CDATA[2 WyR's near the Marigny St entrance to the theater, sponsored by Kay Crampton and the Hash House Harriers.<br>#33]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.055543,29.968239999999998,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lucy's Retired Surfer Bar</name>
+			<description><![CDATA[2 WyR hitch-posts along Tchoup sidewalk]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.067511,29.946354,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gretna City Hall</name>
+			<description><![CDATA[2 WYR's installed on Second Street sidewalk in front of Gretna City Hall, sponsored by Gretna Mayor Ronnie Harris. <br>#35]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.065848,29.917097,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Crepes a la Carte</name>
+			<description><![CDATA[1 WyR in front of Crepes a la Carte, sponsored by the YLC Wednesday at the Square 2010 vendor fund.<br>#36]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.123528,29.941260000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Slice</name>
+			<description><![CDATA[1 WyR near the bar-door to Slice on Magazine at Joseph St, sponsored by the Hash House Harriers.<br>#37]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.116899,29.921114,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Superior Grill</name>
+			<description><![CDATA[2 WyR's at the end of the linear park between Foucher and Antonine, near the entrance to Superior Grill, sponsored by Hash House Harriers and Transportation Consultants, Inc.<br>#38]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.094639,29.927002000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ochsner Clinic</name>
+			<description><![CDATA[1 WyR on the sidewalk in front of the Ochsner Clinic, sponsored Ochsner, "Tip 41."<br>#39]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.092279,29.928111,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Rum House</name>
+			<description><![CDATA[1 WyR adjacent to the no parking space near the front door to The Rum House, sponsored by YLC Wednesday at the Square 2010 vendor fund.<br>#40]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.086143,29.924107000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Joint</name>
+			<description><![CDATA[2 WyR's on Royal near Mazant adjacent to the new location for The Joint, sponsored by YLC Wednesday at the Square Vendor 2010 and Hash House Harriers.<br>#41]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.035512,29.961162,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2600 Royal St</name>
+			<description><![CDATA[1 WyR near the intersection of Royal St. and Franklin Ave., sponsored by Hash House Harriers.#42]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.051209,29.964836000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CBD Farmer's Market</name>
+			<description><![CDATA[1 WyR on Girod adjacent to the farmer's market, sponsored by the Hash House Harriers.<br>#43]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.068578,29.94671,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Naked Pizza World HQ</name>
+			<description><![CDATA[1 WyR in front of Naked Pizza World HQ, sponsored by Hash House Harriers.<br>#44]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.070317,29.945973,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bulldog MidCity</name>
+			<description><![CDATA[2 WyR's in front of the Bulldog in MidCity on Canal Blvd, sponsored by The Bulldog, and Hash House Harriers.<br>#45]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.110276,29.983716000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fulton St.</name>
+			<description><![CDATA[2 WyR's near the entrance to Fulton Street from Poydras, sponsored by Harrah's and Hash House Harriers.<br><br>#46]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.065314,29.948172,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rouse's</name>
+			<description><![CDATA[5 WyR's adjacent to existing grill rack between the north doors and Tchoupitoulas Street, all sponsored by Rouse's.<br><br>#47]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.102761,29.916819,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>City Hall (South)</name>
+			<description><![CDATA[4 WyR's installed outside New Orleans city hall on the Perdido sidewalk just south of the cross walk, sponsored by the 2011 YLC Board of Directors, 2010 YLC Board of Directors, District C Councilmember Palmer, and the Urban Conservancy gifted to Jennifer Ruley.<br><br>#48]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.076625,29.952450999999996,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Juan's Flying Burrito (Mid City)</name>
+			<description><![CDATA[1 WyR installed adjacent to the curb between Juan's Flying Burrito and 4710 S. Carrollton, sponsored by Juan's Flying Burrito.<br><br>#49]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.101035,29.973855,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rayne Memorial United Methodist Church (St. Charles)</name>
+			<description><![CDATA[1 WyR near the entrance to the church off St. Charles Ave and near General Taylor, sponsored by Rayne Memorial United Methodist Church.<br><br>#50]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.096439,29.926662000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rayne Memorial United Methodist Church (Pitt St)</name>
+			<description><![CDATA[2 WyR's installed near the rear Pitt St entrance to Rayne Memorial United Methodist Church, sponsored by Rayne Memorial United Methodist Church.<br><br>#51]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.09642,29.926167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stein's Deli</name>
+			<description><![CDATA[3 WyR's installed on the lakeside sidewalk of Magazine Street between H&R Block and Stein's Deli, sponsored by Chris Harriman and Northrup Grumman.<br><br>#52]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.077098,29.929464,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tout de Suite Cafe</name>
+			<description><![CDATA[3 WyR's around the perimeter of Tout de Suite from Alex to Verret, sponsored by Tout de Suite and Wallingford Bicycle Shop.<br> <br>#53]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.05108,29.952095000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Touro Imaging Center</name>
+			<description><![CDATA[1 WyR at the Touro Imaging Center, sponsored by Touro Imaging Center.  <br>#54]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.102816,29.939771,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gretna Farmers Market</name>
+			<description><![CDATA[3 WyR's located on 3rd St and Huey P Long in front of the Farmers Market, 2 sponsored by the Gretna Farmers Market, and 1 by the Gretna Art Walk.<br><br>#55]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.065266,29.916394,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gretna Ferry Landing</name>
+			<description><![CDATA[8 WyR's sponsored at the flag pole where Huey P Long deadends into 1st Street adjacent to the Ferry Landing, sponsored by Gretna Police Chief Arthur Lawson, Gretna Councilmember Belinda Constant, Ron Loesel-Gauthreaux, Northrup Grumman, Councilmember Lagasse, 2 from the city of Gretna, and Daul Insurance.<br><br>#56]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.066583,29.917967999999995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Audubon Aquarium Ticket Kiosk</name>
+			<description><![CDATA[2 WyR's by the ticket kiosk in front of Audubon Aquarium, sponsored by Rhonda Sharkawy-Pittman, and New Orleans Hash House Harriers.<br> <br>#57]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.062659,29.950521,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gretna Library</name>
+			<description><![CDATA[2 WyR's on the eastern patio entrance to the library off Willow Drive, sponsored by the Gretna Police Department and Jackie J. Berthelot. 1 WyR on the north entrance patio of the library, sponsored by Gretna Councilmember Beevers.<br>#58]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.05082,29.911639,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Iberia Bank - Riverbend</name>
+			<description><![CDATA[1 WyR at the Iberia Bank on S. Carrollton in Riverbend, sponsored by Iberia Bank.<br><br>#59]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.133333,29.94348,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Iberia Bank - Garden District</name>
+			<description><![CDATA[1 WyR at the newly constructed Iberia Bank at the corner of Louisiana Avenue and St. Charles Avenue, sponsored by Iberia Bank.<br><br>#60]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.091694,29.92782,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Spotted Cat</name>
+			<description><![CDATA[2 WyR's on Frenchman near the Spotted Cat, sponsored by the Hash House Harriers and District C Councilmember Palmer.<br><br>#61]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.057749,29.964103,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>3214 Dauphine</name>
+			<description><![CDATA[2 WyR's installed near Satsuma, sponsored by the Hash House Harriers and District C Councilmember Palmer.<br><br>#62]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.042958,29.963899000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>909 Poydras</name>
+			<description><![CDATA[1 WyR on the end of the right cluster of trees, sponsored by Barrasso Law.<br>#63]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.073777,29.950398000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1 Shell Square</name>
+			<description><![CDATA[1 WyR installed near the St. Charles Avenue entrance, sponsored by Triton Stone.<br>#64]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.070585,29.949836,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ms. Mae's</name>
+			<description><![CDATA[2 WyR installed on the Napoleon side of Ms. Mae's, sponsored by Ms. Mae's and the Urban Conservancy.<br>#65]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.101229,29.920658000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Casey Jones Supermarket</name>
+			<description><![CDATA[2 WyR's installed on either side of the store entrance in the sidewalks. Sponsored by Casey Jones Supermarket and Gretna Police Chief Arthur Lawson.<br><br>#66]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.050866,29.917652,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gattuso's</name>
+			<description><![CDATA[2 WyR's installed on either side of the 5th street entrance to Gattuso's. Sponsored by Gattuso's and the Gretna Economic Development Association.<br><br>#67]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.063746,29.91512,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gretna Police Department</name>
+			<description><![CDATA[2 WyR's installed in the striped zone on 5th St in front of the Gretna PD. Sponsored by the Gretna Police Chief Arthur Lawson and Gretna Councilmember Rau.<br><br>#68]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.05883,29.917945,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Crosby Park (Richard St. Park)</name>
+			<description><![CDATA[2 WyR's installed flanking the Richard Street entrance to the park. Sponsored by the Crosby family and Gretna Police Chief Arthur Lawson.<br><br>#69]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.056163,29.916722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gretna Community Center</name>
+			<description><![CDATA[1 WyR under the carport by the entrance to the Community Center. Sponsored by Gretna Police Chief Arthur Lawson.<br><br>#70]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.050337,29.921664,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mel Ott Park (1)</name>
+			<description><![CDATA[1 WyR by the Southeast baseball field restrooms, sponsored by Gretna Councilmember Rau.<br> <br>#71]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.048179,29.902787,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mel Ott Park (2)</name>
+			<description><![CDATA[2 WyR's installed next to the Northwest baseball field concession stands, sponsored by Gretna Police Chief Arthur Lawson and Gretna Councilmember Beevers.<br> <br>#72]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.050125,29.903792,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bellevue Park</name>
+			<description><![CDATA[1 WyR installed at the eastern pavilion adjacent to the playground, sponsored by Gretna Police Chief Arthur Lawson.]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.046341,29.897070000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Westbank ARC</name>
+			<description><![CDATA[1 WyR on the north corner of the patio, sponsored by Gretna Councilmember Beevers.<br> <br>#73]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.046267,29.902405000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Up in Smoke</name>
+			<description><![CDATA[1 WyR on the sidewalk of Josephine, just lakeside of Magazine Street, sponsored by Up in Smoke.<br><br>#74]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.075895,29.930307000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Finn McCool's</name>
+			<description><![CDATA[1 WyR installed at Finn McCool's along the Banks Street side by the existing bike racks. Sponsored by AARP.<br><br>#75]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.099271,29.969569,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Palmer Park</name>
+			<description><![CDATA[6 WyR's on the East, South, and West corners of the park, sponsored by Tommy Crane, Central Carrollton Association, The Henican Family, The Ainsworth Family, The Ribka/Fuselier Group, and Keep Pedaling.<br>#76]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.121917,29.955494,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Danneel Playground</name>
+			<description><![CDATA[2 WyR's by the playground sponsored by the Harowski Family.<br>#77]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.113901,29.929497000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Louisiana Bar Association</name>
+			<description><![CDATA[2 WyR's installed adjacent to the side entrance to the LA Bar on Lafayette Street, sponsored by the Louisiana Bar Association.<br> <br>#78]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.071352,29.948362,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>First NBC Bank</name>
+			<description><![CDATA[3 WyR's installed on the sidewalk in front of the First NBC Bank Headquarters, sponsored by First NBC Bank.<br><br>#79]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.072166,29.952984,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WW2 Museum</name>
+			<description><![CDATA[1 WyR near the front entrance to the World War Two Museum, sponsored by the World War Two Museum.<br><br>#80]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.070372,29.942947,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Booty's</name>
+			<description><![CDATA[5 WyR's  hitch-post racks and 1 corral around the Dauphine and Louisa perimeter of Booty's Street Food, sponsored by Booty's Street Food.<br> <br>#81]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.043527,29.964128,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Breads on Oak</name>
+			<description><![CDATA[1 WyR inside the curb-extension on Oak in front of Breads on Oak, sponsored by Breads on Oak.<br> <br>#82]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.13472500000002,29.951293,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bacchanal</name>
+			<description><![CDATA[6 WyR hitch-post racka installed at Bacchanal, 2 on Poland just outside the main entrance, and 3 along Chartres towards the rear of the building under the trees by the courtyard exit.]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.033225,29.959726,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Juan's Flying Burrito</name>
+			<description><![CDATA[1 WyR at Juan's Flying Burrito (Uptown) adjacent to the parking meter, sponsored by Juan's Flying Burrito.<br><br>#83]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.075049,29.930643,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Massey's</name>
+			<description><![CDATA[1 WYR at Masseys on Carrollton Ave. near St. Louis St.  Sponsored by the Urban Conservancy<br><br>#91]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.097364,29.977844000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kingswood Playground</name>
+			<description><![CDATA[4 WyR's installed flanking the circular entrance at Edgefield Drive, sponsored by the National Football League (Superbowl Service).<br><br>#88]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.950517,30.059656999999998,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hunter's Amphitheater</name>
+			<description><![CDATA[2 WyR's installed at Hunter's Amphitheater, sponsored by the National Football League (Superbowl Service).<br><br> <br>#92]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.06471100000002,29.973573999999996,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lyons Center</name>
+			<description><![CDATA[2 WyR's installed to the left of the Louisiana Avenue entrance, sponsored by the National Football League (Superbowl Service).<br><br>#86]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.087065,29.918885000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>City Bark</name>
+			<description><![CDATA[1 WyR installed adjacent to the fence left of the main entrance, sponsored by City Bark.<br><br>#84]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.096275,29.995550000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Buffa's Bar</name>
+			<description><![CDATA[4 WyR's installed around Buffa's Bar, sponsored by Buffa's.	<br>#85]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.062313,29.965196,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pontchartrain Park</name>
+			<description><![CDATA[8 WyR's installed at Pontchartrain Park, 2 at the jungle gym and swings, 2 at the NW corner of the building, and 4 by the bleachers, sponsored by the National Football League (Superbowl Service).<br><br>#87]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.042776,30.018794,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wit's Inn</name>
+			<description><![CDATA[1 WYR installed at Wit's Inn on the corner near the entrance.  Sponsored by Wit's Inn.<br> <br>#88]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.099859,29.97542,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Broadmoor Improvement Association</name>
+			<description><![CDATA[1 WYR at Broadmoor Improvement Association on Broad St. near Eve St.  Sponsored by the Urban Conservancy.<br> <br>#89]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.09971,29.951514000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Latrobe Park</name>
+			<description><![CDATA[1 WyR Corral (6-racks), sponsored by the New Orleans Hash House Harriers.<br><br>#90]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.059874,29.959794,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Allways Lounge Corral</name>
+			<description><![CDATA[1 WyR corral bike rack for Marigny Street side of Allways Lounge.]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.055542,29.968412,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hi Ho Lounge Corral</name>
+			<description><![CDATA[1 WyR corral on the Marigny side of the street of Hi Ho Lounge.]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.055503,29.968919,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Walgreen's (FQ)</name>
+			<description><![CDATA[1 WyR corral (6-rack) on Decatur Street by the Wilkinson Street corner by Walgreen's.<br> <br>#98]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.0632,29.956381000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Urgent Care (Warehouse)</name>
+			<description><![CDATA[1 WYR hitch-post rack installed on the St. Joseph side of the Urgent Care center off Magazine Street.]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.069614,29.943764999999996,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Southern Insurance</name>
+			<description><![CDATA[2 hitch post racks near Southern Insurance doors along Magazine Street sidewalk.]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.068977,29.94638,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Federal Reserve</name>
+			<description><![CDATA[3 WyR hitch-posts installed in front of Federal Reserve building on St. Charles Avenue across across from Lafayette Square.<br><br>#93]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.07094,29.948762,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Midway Pizza</name>
+			<description><![CDATA[2 WyR hitch-post racks installed on Upperline Street sidewalk just north of Freret, adjacent to Midway Pizza.<br><br>#94]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.107229,29.93504,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Freret Donut</name>
+			<description><![CDATA[1 WyR hitch-post rack installed on Valence near corner of Freret by Freret Donut shop.]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.106537,29.935053999999997,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ruby Slipper</name>
+			<description><![CDATA[2 WyR hitch-post racks installed on the Burgundy Street side of Ruby Slipper near the corner of Touro Street.]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.059019,29.966422999999995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CC's Coffee</name>
+			<description><![CDATA[2 WyR hitch-post racks installed on the Magazine Street side of CC's Coffee near Jefferson Avenue.]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.115182,29.920944000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Total Health Clinic</name>
+			<description><![CDATA[1 WyR hitch-post installed on the Bienville Street side of Total Health Clinic at the intersection of Jefferson Davis Parkway.<br><br>#96]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.092912,29.971907,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zeus's Place</name>
+			<description><![CDATA[2 WyR hitch-post racks installed on the Cadiz Street side of Zeus's Place just off Freret Street.<br> <br>#97]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.105411,29.935207,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aycock Barn</name>
+			<description><![CDATA[2 hitch-post racks flanking the front of the Aycock Barn.]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.00597,29.951044999999997,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St. Peter Claver</name>
+			<description><![CDATA[1 WyR hitch-post rack installed on the playground next to the church]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.07316600000001,29.968045,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bywater Art Gallery</name>
+			<description><![CDATA[4 WyR hitch-post racks installed near the corner of Independence St. and St. Claude Ave.]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.038031,29.966138,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Laurel St. Bakery</name>
+			<description><![CDATA[1 WyR hitch-post outside of the Laurel St. Bakery sponsored by Bike Easy]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.099762,29.951486,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sojourner Truth Center</name>
+			<description><![CDATA[2 WyR hitch-Post Racks sponsored by Providence, Enterprise, LM]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.079528,29.966055999999995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>City Hall Corral</name>
+			<description><![CDATA[1 WyR Corral installed on Perdido St in front of City Hall.  Sponsored by Councilwomen Palmer and Guidry.]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.0767,29.952532,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Avenue Pub Corral</name>
+			<description><![CDATA[1 WyR Corral installed on the Polymnia St. side.]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.076877,29.936820000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Avenue Pub</name>
+			<description><![CDATA[2 WyR hitch-post racks installed on the St. Charles Ave. side]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.076915,29.936969,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ARC of New Orleans</name>
+			<description><![CDATA[2 WyR hitch-post racks installed at the ARC of New Orleans]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.97867300000001,29.959183000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bywater Artist Lofts</name>
+			<description><![CDATA[1 WyR hitch-post rack installed on the Dauphine St. side]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.038453,29.962933,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bywater Art Gallery Corral</name>
+			<description><![CDATA[1 WyR Corral installed on the Independence St. side]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.038162,29.965996,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Downtown Tattoo Corral</name>
+			<description><![CDATA[1 WyR corral installed on the Decatur St side, sponsored by NOLA Social Ride]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.057576,29.962547,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St. Roch Park</name>
+			<description><![CDATA[2 WyR hitch-post racks installed on the downriver/east side of St. Roch Park, sponsored by NOLA 4 Life Day]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.052292,29.976887999999995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Urgent Care</name>
+			<description><![CDATA[1 WyR hitch-post rack installed on the St. Joseph St. side]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.069534,29.943742,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lafayette Square</name>
+			<description><![CDATA[1 WyR hitch-post rack installed along the sidewalk on the N Maestri St side]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.070669,29.948883,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Torres Park</name>
+			<description><![CDATA[1 WyR hitch-post rack installed at Torres Park sponsored by the Law Offices of Sidney Torres]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.980979,29.956682000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gulf Coast Bank</name>
+			<description><![CDATA[1 WyR hitch-post rack installed in the rear parking lot of Gulf Coast Bank]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.099833,29.975912999999995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Harriet Tubman Elementary</name>
+			<description><![CDATA[6 WYRs installed at Harriet Tubman Elementary sponsored by SRTS]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.02664,29.942896,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Habans Elementary</name>
+			<description><![CDATA[6 WYRs installed at Habans Elementary School sponsored by SRTS]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.016909,29.926238999999995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shaumburg Elementary</name>
+			<description><![CDATA[6 WYRs installed at Shaumburg Elementary School sponsored by SRTS]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.975823,30.019203,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bike Easy Offices</name>
+			<description><![CDATA[1 WYR installed at the Bike Easy offices sponsored by NOLA Social Ride]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.100132,29.981623,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St. Roch Park</name>
+			<description><![CDATA[2 WYRs at St. Roch Park sponsored by NOLA 4 Life Day]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.052272,29.976944000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sucess Preparatory Academy</name>
+			<description><![CDATA[6 WYRs installed at Sucess Preparatory Academy sponsored by SRTS]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.07926,29.963047,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Einstein Charter Auxiliary Campus</name>
+			<description><![CDATA[6 WYRs installed at Einstein Charter School sponsored by SRTS]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.932903,30.041877,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Einsteien Charter Main Campus</name>
+			<description><![CDATA[6 WYRs installed at Einstein Charter School sponsored by SRTS]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-89.924245,30.039833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dr. Kristi Soileau</name>
+			<description><![CDATA[1 WYR hitch-post rack installed along the sidewalk on the Coliseum Side]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.093703,29.924496,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Homer A. Plessy Community School</name>
+			<description><![CDATA[4 WYR hitch-post racks installed at Homer A. Plessy Community School sponsored by SRTS.]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.060546,29.970854,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Arthur Ashe Elementary School</name>
+			<description><![CDATA[6 WYR hitch-post racks installed at Arthur Ashe Elementary School sponsored by SRTS]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.078171,30.009587,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>John Diebert Elementary School</name>
+			<description><![CDATA[6 WYR hitch-post racks installed at John Diebert Elementary School sponsored by SRTS]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.078391,29.96956,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>William Cohen High School</name>
+			<description><![CDATA[6 WYR hitch-post racks installed at William Cohen High School sponsored by SRTS]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.094672,29.930126000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Raising Canes</name>
+			<description><![CDATA[3 WYR hitch-post racks installed at Raising Canes]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.075011,29.939335,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sylvanie Williams School</name>
+			<description><![CDATA[6 WYR hitch-post racks installed at Sylvanie Williams School sponsored by SRTS]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.089889,29.947433000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lawrence Crocker School</name>
+			<description><![CDATA[6 WYR hitch-post racks installed at Lawrence Crocker School sponsored by SRTS]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.098442,29.934370000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cultural Art's Academy School</name>
+			<description><![CDATA[6 WYR hitch-post racks installed at Cultural Art's Academy School sponsored by SRTS]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.085072,29.922837999999995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Les Enfants at Trinity</name>
+			<description><![CDATA[2 WYR hitch-post racks installed at Les Enfants]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.076832,29.930918999999996,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>American Red Cross</name>
+			<description><![CDATA[1 WYR hitch-post rack installed at The American Red Cross sponsored by FROYO.]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.086855,29.964983000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Del Fuego</name>
+			<description><![CDATA[1 WYR hitch post rack Installed at Del Fuego sponsored by Urban Conservancy's Urban Heroes]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.103245,29.92062,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Raising Canes</name>
+			<description><![CDATA[2 WYR hitch-post racks installed at Raising Cane's]]></description>
+			<styleUrl>#icon-983</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-90.113739,29.961989000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-983-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/983-biz-bicycle.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-983-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/983-biz-bicycle.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-983'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-983-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-983-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
