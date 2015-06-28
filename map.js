@@ -12,7 +12,6 @@ var thefts = L.geoJson();
 var racks = L.geoJson();
 var layerControl = L.control.layers(null, null).addTo(map);
 
-
 // load bike easy thefts
 $.getJSON('data/thefts.json', function(data) {
     thefts =
@@ -40,6 +39,14 @@ $.getJSON('data/thefts.json', function(data) {
             }
         }).addTo(map);
         layerControl.addOverlay(thefts, 'Bike Easy Theft Reports');
+        var sliderControl = L.control.sliderControl({
+            position: "topright",
+            layer: thefts,
+            timeAttribute: "date",
+            range: true
+        });
+        map.addControl(sliderControl);
+        sliderControl.startSlider();
  });
 
 
